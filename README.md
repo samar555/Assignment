@@ -1,18 +1,18 @@
 # Assignment
-Quizz API assignment for a Compony 
-##download
+Quizz API assignment for a Compony <br>
+# download
 you have to download the project as zip
 
 extract it open vs code and import folder or use another ide 
 
-##connectivity of database
+# connectivity of database
 setup your datbase Connection like userName and password use My sql Database.
 
 run Your Project
 
-#Call API
+ # Call API
 now open postman 
-##add raw data to quiz
+# add raw data to quiz
 POST /quizzes - to create a new quiz
 {
   "question": "What is the capital of France?",
