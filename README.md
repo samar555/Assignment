@@ -13,7 +13,7 @@ run Your Project
  # Call API
 now open postman 
 # add raw data to quiz
-POST /quizzes - to create a new quiz
+POST /quizzes - to create a new quiz <br>
 {
   "question": "What is the capital of France?",
   "optionsOfAnswer": ["London", "Paris", "Berlin", "Madrid"],
