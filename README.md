@@ -10,7 +10,7 @@ setup your datbase Connection like userName and password use My sql Database.
 
 run Your Project
 
-##Call API
+#Call API
 now open postman 
 ##add raw data to quiz
 POST /quizzes - to create a new quiz
